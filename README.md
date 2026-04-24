@@ -1,4 +1,4 @@
-# 🤖 TechCorp AI Chat — Backend Python
+# 🤖 TechCorp AI Chat
 
 ## 📋 Description
 

@@ -1,0 +1,52 @@
+# =====================
+# ENVIRONNEMENT PYTHON
+# =====================
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# FASTAPI / UVICORN
+# =====================
+*.log
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+
+# =====================
+# OS (Mac / Windows)
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# MODELS / IA LOURD
+# =====================
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# =====================
+# DATASETS SENSIBLES
+# =====================
+medical_dataset/
+datasets/
+
+# =====================
+# LOGS / TEMP
+# =====================
+logs/
+temp/
+
+# =====================
+# DOCKER (si utilisé plus tard)
+# =====================
+*.pid
